@@ -1,12 +1,12 @@
 # **Name**
 
-E-sun Electronics Ltd/ Panther X2
+Panther X2
 
  
 
 # **Summary**
 
-E-sun Electronics understands the importance of a paradigm shift for decentralized wireless infrastructure powered by the Helium Blockchain. Therefore, we are delighted to become a third-party manufacturer and build a high-efficiency regular hotspot (Panther X). Shortly, we aim to contribute to the connective grid for the helium network and develop and provide the tools and sensors to the business parties.
+Panther Global understands the importance of a paradigm shift for decentralized wireless infrastructure powered by the Helium Blockchain. Therefore, we are delighted to become a third-party manufacturer and build a high-efficiency regular hotspot (Panther X). Shortly, we aim to contribute to the connective grid for the helium network and develop and provide the tools and sensors to the business parties.
 
  
 
@@ -16,7 +16,7 @@ We are submitting a new proposal for the Panther X2 hotspot, an enhanced model o
 
 # **Company information**
 
-E-sun Electronics Ltd, founded in 2014, is an intelligent manufacturing company based in Hong Kong. Panther X series Hotspot is E-sun's competitive product in the domain of IoT in the future decade. The engineering team at Panther X consists of seasoned industry veterans from tech, R&D, blockchain and manufacturing companies such as Canaan and Browan communications. In addition, they have developed many well-known and respected mining equipment such as Avalon.
+Panther Global, founded in 2014, is an intelligent manufacturing company based in Hong Kong. Panther X series Hotspot is Panther Global's competitive product in the domain of IoT in the future decade. The engineering team at Panther X consists of seasoned industry veterans from tech, R&D, blockchain and manufacturing companies such as Canaan and Browan communications. In addition, they have developed many well-known and respected mining equipment such as Avalon.
 
  
 
@@ -96,8 +96,7 @@ Our components are sourced from all over the world, both online and offline. In 
 
 # **Manufacturing Information**
 
-BROWAN COMMUNICATIONS (referred to as Browan) is an essential partner of E-sun, responsible for the mass production of Panther X.
-
+BROWAN COMMUNICATIONS (referred to as Browan) is an essential partner of Panter Global, responsible for the mass production of Panther X.
  
 
 Browan is a professional wireless equipment company founded in 1999. The company is one of the Gemtek Group's (Taiwan listed company, stock code 4906) companies that focus on leveraging the wireless technology Know-How accumulated over the years to address the emerging businesses of the Internet of Things. In addition, BROWAN focuses on integrating wireless technology such as WiFi, BLE, LTE, and LoRa.
